@@ -1,4 +1,4 @@
-name: Model Sanity Check
+name: Model Sanity Check 2
 
 on:
   pull_request:
